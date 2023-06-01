@@ -39,7 +39,6 @@ exports.getUser = async (req, res) => {
 exports.userList = async (req, res) => {
 	try {
 		const userList = await userService.userList();
-		// const userList = await redisClient.GET('cacheData.');
 		return status.success(res,200,userList);
 	}
 	catch (error) {

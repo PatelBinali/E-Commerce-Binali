@@ -1,6 +1,3 @@
-// const uuid = require("uuid");
-// const UUIDV4 = uuid.v4();
-
 module.exports = (sequelize, Sequelize) => {
 	const cartDetails = sequelize.define('cartDetails', {
 		Id: {
