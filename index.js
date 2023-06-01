@@ -27,9 +27,9 @@ app.get('/', (req, res) => {
 	res.send('invalid route');
 });
 
-cron.schedule('0 */1 * * *', () => {
-	userCron();
-	productCron();
+cron.schedule('0 */1 * * *',async () => {
+	await userCron();
+	await productCron();
 });
 
 app.post('/refresh', (req, res) => {
