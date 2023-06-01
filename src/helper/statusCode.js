@@ -1,4 +1,3 @@
-// const { USER } = require('./constant');
 const status = {
 	success :async (res,statusCode,data) => {
 		return res.status(statusCode).json({ statusCode,data });

@@ -11,9 +11,6 @@ const { userCron } = require('./src/cronjob/userCron');
 const { productCron } = require('./src/cronjob/productCron');
 const passport = require('passport');
 const session = require('express-session');
-// const LocalStrategy = require('passport-local').Strategy;
-// const sequelize = require('sequelize');
-// const basicAuth = require('express-basic-auth');
 app.use(express.urlencoded({
 	extended: true 
 })

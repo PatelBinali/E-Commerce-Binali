@@ -14,21 +14,6 @@ exports.getOrderDetailsById = async (req, res) => {
 		if (orderCache === null) {
 			const getOrderDetails = await orderService.getOrderDetailsById({ where:{ orderId },attributes: { exclude: ['createdAt','updatedAt','deletedAt'] } });
 			const order = await orderService.order({ where:{ orderId:orderId } });
-			// let arr = [];
-			// console.log('i');
-			// for (let i = 0; i < getOrderDetails.length;i++) {
-			// 	let array = {
-			// 		Id:getOrderDetails[i].Id,
-			// 		orderId:getOrderDetails[i].orderId,
-			// 		productId:getOrderDetails[i].productId,
-			// 		price:getOrderDetails[i].price,
-			// 		quantity:getOrderDetails[i].quantity,
-			// 		totalPrice:getOrderDetails[i].totalPrice
-			// 	};
-			// 	arr.push(array);
-			// 	// console.log(array);
-			// }
-			// console.log(arr);
 			await redisCache.setCache(getOrderDetails.orderId,getOrderDetails);
 			return status.success(res,200,{ getOrderDetails,totalPrice:order.totalPrice });
 		}

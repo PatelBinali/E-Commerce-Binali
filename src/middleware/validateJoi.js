@@ -1,5 +1,3 @@
-// const Joi = require("joi");
-
 const validateJoi = (schema) => {
 	(req, next) => {
 		const options = {
