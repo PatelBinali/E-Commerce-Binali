@@ -1,7 +1,7 @@
 // const Joi = require("joi");
 
 const validateJoi = (schema) => {
-	(req, res, next) => {
+	(req, next) => {
 		const options = {
 			abortEarly: false, // pass all error and if keep true it will pass single error in validation
 			allowUnknown: true, // unknown keys which are ignored

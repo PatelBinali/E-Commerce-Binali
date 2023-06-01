@@ -30,7 +30,7 @@ app.get('/', (req, res) => {
 	res.send('invalid route');
 });
 
-cron.schedule('0 */1 * * *', async () => {
+cron.schedule('0 */1 * * *', () => {
 	userCron();
 	productCron();
 });
