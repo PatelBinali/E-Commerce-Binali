@@ -1,0 +1,442 @@
+
+
+ Wed May 31 2023 14:56:01 GMT+0530 (India Standard Time) 
+ Total Products: 11
+
+ Wed May 31 2023 14:56:01 GMT+0530 (India Standard Time) 
+ Deleted products: 0
+
+ Wed May 31 2023 14:56:01 GMT+0530 (India Standard Time) 
+ users latest product of 7 days ago: [
+    {
+        "productId": "3098f6dd-ad9a-4bdd-b2d2-d3447de04831",
+        "sellerId": "dd4e667c-7387-409c-9c93-93d53c0f8ade",
+        "createdAt": "2023-05-29T12:14:36.000Z"
+    },
+    {
+        "productId": "38963bad-1d70-49a5-b2f4-e7da260c1364",
+        "sellerId": "dd4e667c-7387-409c-9c93-93d53c0f8ade",
+        "createdAt": "2023-05-29T11:33:04.000Z"
+    }
+]
+
+ Wed May 31 2023 14:56:01 GMT+0530 (India Standard Time) 
+ users latest product of 1 months ago: [
+    {
+        "productId": "3098f6dd-ad9a-4bdd-b2d2-d3447de04831",
+        "sellerId": "dd4e667c-7387-409c-9c93-93d53c0f8ade",
+        "createdAt": "2023-05-29T12:14:36.000Z"
+    },
+    {
+        "productId": "38963bad-1d70-49a5-b2f4-e7da260c1364",
+        "sellerId": "dd4e667c-7387-409c-9c93-93d53c0f8ade",
+        "createdAt": "2023-05-29T11:33:04.000Z"
+    },
+    {
+        "productId": "3ac62b55-36b1-4fbe-b725-d7cdf448b3ed",
+        "sellerId": "65ab7012-8039-44a5-af1f-b598a7384451",
+        "createdAt": "2023-05-05T10:04:51.000Z"
+    },
+    {
+        "productId": "4ab12234-f76b-43ed-bbfd-39bce1c05353",
+        "sellerId": "65ab7012-8039-44a5-af1f-b598a7384451",
+        "createdAt": "2023-05-05T10:16:26.000Z"
+    },
+    {
+        "productId": "b5c662db-c6ad-4749-bca4-ba5f90cca907",
+        "sellerId": "65ab7012-8039-44a5-af1f-b598a7384451",
+        "createdAt": "2023-05-05T10:14:42.000Z"
+    }
+]
+
+ Wed May 31 2023 14:57:00 GMT+0530 (India Standard Time) 
+ Total Products: 11
+
+ Wed May 31 2023 14:57:00 GMT+0530 (India Standard Time) 
+ Deleted products: 0
+
+ Wed May 31 2023 14:57:00 GMT+0530 (India Standard Time) 
+ users latest product of 7 days ago: [
+    {
+        "productId": "3098f6dd-ad9a-4bdd-b2d2-d3447de04831",
+        "sellerId": "dd4e667c-7387-409c-9c93-93d53c0f8ade",
+        "createdAt": "2023-05-29T12:14:36.000Z"
+    },
+    {
+        "productId": "38963bad-1d70-49a5-b2f4-e7da260c1364",
+        "sellerId": "dd4e667c-7387-409c-9c93-93d53c0f8ade",
+        "createdAt": "2023-05-29T11:33:04.000Z"
+    }
+]
+
+ Wed May 31 2023 14:57:00 GMT+0530 (India Standard Time) 
+ users latest product of 1 months ago: [
+    {
+        "productId": "3098f6dd-ad9a-4bdd-b2d2-d3447de04831",
+        "sellerId": "dd4e667c-7387-409c-9c93-93d53c0f8ade",
+        "createdAt": "2023-05-29T12:14:36.000Z"
+    },
+    {
+        "productId": "38963bad-1d70-49a5-b2f4-e7da260c1364",
+        "sellerId": "dd4e667c-7387-409c-9c93-93d53c0f8ade",
+        "createdAt": "2023-05-29T11:33:04.000Z"
+    },
+    {
+        "productId": "3ac62b55-36b1-4fbe-b725-d7cdf448b3ed",
+        "sellerId": "65ab7012-8039-44a5-af1f-b598a7384451",
+        "createdAt": "2023-05-05T10:04:51.000Z"
+    },
+    {
+        "productId": "4ab12234-f76b-43ed-bbfd-39bce1c05353",
+        "sellerId": "65ab7012-8039-44a5-af1f-b598a7384451",
+        "createdAt": "2023-05-05T10:16:26.000Z"
+    },
+    {
+        "productId": "b5c662db-c6ad-4749-bca4-ba5f90cca907",
+        "sellerId": "65ab7012-8039-44a5-af1f-b598a7384451",
+        "createdAt": "2023-05-05T10:14:42.000Z"
+    }
+]
+
+ Wed May 31 2023 14:58:00 GMT+0530 (India Standard Time) 
+ Total Products: 11
+
+ Wed May 31 2023 14:58:00 GMT+0530 (India Standard Time) 
+ Deleted products: 0
+
+ Wed May 31 2023 14:58:00 GMT+0530 (India Standard Time) 
+ users latest product of 7 days ago: [
+    {
+        "productId": "3098f6dd-ad9a-4bdd-b2d2-d3447de04831",
+        "sellerId": "dd4e667c-7387-409c-9c93-93d53c0f8ade",
+        "createdAt": "2023-05-29T12:14:36.000Z"
+    },
+    {
+        "productId": "38963bad-1d70-49a5-b2f4-e7da260c1364",
+        "sellerId": "dd4e667c-7387-409c-9c93-93d53c0f8ade",
+        "createdAt": "2023-05-29T11:33:04.000Z"
+    }
+]
+
+ Wed May 31 2023 14:58:00 GMT+0530 (India Standard Time) 
+ users latest product of 1 months ago: [
+    {
+        "productId": "3098f6dd-ad9a-4bdd-b2d2-d3447de04831",
+        "sellerId": "dd4e667c-7387-409c-9c93-93d53c0f8ade",
+        "createdAt": "2023-05-29T12:14:36.000Z"
+    },
+    {
+        "productId": "38963bad-1d70-49a5-b2f4-e7da260c1364",
+        "sellerId": "dd4e667c-7387-409c-9c93-93d53c0f8ade",
+        "createdAt": "2023-05-29T11:33:04.000Z"
+    },
+    {
+        "productId": "3ac62b55-36b1-4fbe-b725-d7cdf448b3ed",
+        "sellerId": "65ab7012-8039-44a5-af1f-b598a7384451",
+        "createdAt": "2023-05-05T10:04:51.000Z"
+    },
+    {
+        "productId": "4ab12234-f76b-43ed-bbfd-39bce1c05353",
+        "sellerId": "65ab7012-8039-44a5-af1f-b598a7384451",
+        "createdAt": "2023-05-05T10:16:26.000Z"
+    },
+    {
+        "productId": "b5c662db-c6ad-4749-bca4-ba5f90cca907",
+        "sellerId": "65ab7012-8039-44a5-af1f-b598a7384451",
+        "createdAt": "2023-05-05T10:14:42.000Z"
+    }
+]
+
+ Wed May 31 2023 15:00:00 GMT+0530 (India Standard Time) 
+ Total Products: 11
+
+ Wed May 31 2023 15:00:00 GMT+0530 (India Standard Time) 
+ Deleted products: 0
+
+ Wed May 31 2023 15:00:00 GMT+0530 (India Standard Time) 
+ users latest product of 7 days ago: [
+    {
+        "productId": "3098f6dd-ad9a-4bdd-b2d2-d3447de04831",
+        "sellerId": "dd4e667c-7387-409c-9c93-93d53c0f8ade",
+        "createdAt": "2023-05-29T12:14:36.000Z"
+    },
+    {
+        "productId": "38963bad-1d70-49a5-b2f4-e7da260c1364",
+        "sellerId": "dd4e667c-7387-409c-9c93-93d53c0f8ade",
+        "createdAt": "2023-05-29T11:33:04.000Z"
+    }
+]
+
+ Wed May 31 2023 15:00:00 GMT+0530 (India Standard Time) 
+ users latest product of 1 months ago: [
+    {
+        "productId": "3098f6dd-ad9a-4bdd-b2d2-d3447de04831",
+        "sellerId": "dd4e667c-7387-409c-9c93-93d53c0f8ade",
+        "createdAt": "2023-05-29T12:14:36.000Z"
+    },
+    {
+        "productId": "38963bad-1d70-49a5-b2f4-e7da260c1364",
+        "sellerId": "dd4e667c-7387-409c-9c93-93d53c0f8ade",
+        "createdAt": "2023-05-29T11:33:04.000Z"
+    },
+    {
+        "productId": "3ac62b55-36b1-4fbe-b725-d7cdf448b3ed",
+        "sellerId": "65ab7012-8039-44a5-af1f-b598a7384451",
+        "createdAt": "2023-05-05T10:04:51.000Z"
+    },
+    {
+        "productId": "4ab12234-f76b-43ed-bbfd-39bce1c05353",
+        "sellerId": "65ab7012-8039-44a5-af1f-b598a7384451",
+        "createdAt": "2023-05-05T10:16:26.000Z"
+    },
+    {
+        "productId": "b5c662db-c6ad-4749-bca4-ba5f90cca907",
+        "sellerId": "65ab7012-8039-44a5-af1f-b598a7384451",
+        "createdAt": "2023-05-05T10:14:42.000Z"
+    }
+]
+
+ Wed May 31 2023 16:00:00 GMT+0530 (India Standard Time) 
+ Total Products: 11
+
+ Wed May 31 2023 16:00:00 GMT+0530 (India Standard Time) 
+ Deleted products: 0
+
+ Wed May 31 2023 16:00:00 GMT+0530 (India Standard Time) 
+ users latest product of 1 months ago: [
+    {
+        "productId": "3098f6dd-ad9a-4bdd-b2d2-d3447de04831",
+        "sellerId": "dd4e667c-7387-409c-9c93-93d53c0f8ade",
+        "createdAt": "2023-05-29T12:14:36.000Z"
+    },
+    {
+        "productId": "38963bad-1d70-49a5-b2f4-e7da260c1364",
+        "sellerId": "dd4e667c-7387-409c-9c93-93d53c0f8ade",
+        "createdAt": "2023-05-29T11:33:04.000Z"
+    },
+    {
+        "productId": "3ac62b55-36b1-4fbe-b725-d7cdf448b3ed",
+        "sellerId": "65ab7012-8039-44a5-af1f-b598a7384451",
+        "createdAt": "2023-05-05T10:04:51.000Z"
+    },
+    {
+        "productId": "4ab12234-f76b-43ed-bbfd-39bce1c05353",
+        "sellerId": "65ab7012-8039-44a5-af1f-b598a7384451",
+        "createdAt": "2023-05-05T10:16:26.000Z"
+    },
+    {
+        "productId": "b5c662db-c6ad-4749-bca4-ba5f90cca907",
+        "sellerId": "65ab7012-8039-44a5-af1f-b598a7384451",
+        "createdAt": "2023-05-05T10:14:42.000Z"
+    }
+]
+
+ Wed May 31 2023 16:00:00 GMT+0530 (India Standard Time) 
+ users latest product of 7 days ago: [
+    {
+        "productId": "3098f6dd-ad9a-4bdd-b2d2-d3447de04831",
+        "sellerId": "dd4e667c-7387-409c-9c93-93d53c0f8ade",
+        "createdAt": "2023-05-29T12:14:36.000Z"
+    },
+    {
+        "productId": "38963bad-1d70-49a5-b2f4-e7da260c1364",
+        "sellerId": "dd4e667c-7387-409c-9c93-93d53c0f8ade",
+        "createdAt": "2023-05-29T11:33:04.000Z"
+    }
+]
+
+ Wed May 31 2023 17:00:00 GMT+0530 (India Standard Time) 
+ Total Products: 11
+
+ Wed May 31 2023 17:00:00 GMT+0530 (India Standard Time) 
+ users latest product of 1 months ago: [
+    {
+        "productId": "3098f6dd-ad9a-4bdd-b2d2-d3447de04831",
+        "sellerId": "dd4e667c-7387-409c-9c93-93d53c0f8ade",
+        "createdAt": "2023-05-29T12:14:36.000Z"
+    },
+    {
+        "productId": "38963bad-1d70-49a5-b2f4-e7da260c1364",
+        "sellerId": "dd4e667c-7387-409c-9c93-93d53c0f8ade",
+        "createdAt": "2023-05-29T11:33:04.000Z"
+    },
+    {
+        "productId": "3ac62b55-36b1-4fbe-b725-d7cdf448b3ed",
+        "sellerId": "65ab7012-8039-44a5-af1f-b598a7384451",
+        "createdAt": "2023-05-05T10:04:51.000Z"
+    },
+    {
+        "productId": "4ab12234-f76b-43ed-bbfd-39bce1c05353",
+        "sellerId": "65ab7012-8039-44a5-af1f-b598a7384451",
+        "createdAt": "2023-05-05T10:16:26.000Z"
+    },
+    {
+        "productId": "b5c662db-c6ad-4749-bca4-ba5f90cca907",
+        "sellerId": "65ab7012-8039-44a5-af1f-b598a7384451",
+        "createdAt": "2023-05-05T10:14:42.000Z"
+    }
+]
+
+ Wed May 31 2023 17:00:00 GMT+0530 (India Standard Time) 
+ Deleted products: 0
+
+ Wed May 31 2023 17:00:00 GMT+0530 (India Standard Time) 
+ users latest product of 7 days ago: [
+    {
+        "productId": "3098f6dd-ad9a-4bdd-b2d2-d3447de04831",
+        "sellerId": "dd4e667c-7387-409c-9c93-93d53c0f8ade",
+        "createdAt": "2023-05-29T12:14:36.000Z"
+    },
+    {
+        "productId": "38963bad-1d70-49a5-b2f4-e7da260c1364",
+        "sellerId": "dd4e667c-7387-409c-9c93-93d53c0f8ade",
+        "createdAt": "2023-05-29T11:33:04.000Z"
+    }
+]
+
+ Wed May 31 2023 18:00:00 GMT+0530 (India Standard Time) 
+ Total Products: 11
+
+ Wed May 31 2023 18:00:00 GMT+0530 (India Standard Time) 
+ Deleted products: 0
+
+ Wed May 31 2023 18:00:00 GMT+0530 (India Standard Time) 
+ users latest product of 7 days ago: [
+    {
+        "productId": "3098f6dd-ad9a-4bdd-b2d2-d3447de04831",
+        "sellerId": "dd4e667c-7387-409c-9c93-93d53c0f8ade",
+        "createdAt": "2023-05-29T12:14:36.000Z"
+    },
+    {
+        "productId": "38963bad-1d70-49a5-b2f4-e7da260c1364",
+        "sellerId": "dd4e667c-7387-409c-9c93-93d53c0f8ade",
+        "createdAt": "2023-05-29T11:33:04.000Z"
+    }
+]
+
+ Wed May 31 2023 18:00:00 GMT+0530 (India Standard Time) 
+ users latest product of 1 months ago: [
+    {
+        "productId": "3098f6dd-ad9a-4bdd-b2d2-d3447de04831",
+        "sellerId": "dd4e667c-7387-409c-9c93-93d53c0f8ade",
+        "createdAt": "2023-05-29T12:14:36.000Z"
+    },
+    {
+        "productId": "38963bad-1d70-49a5-b2f4-e7da260c1364",
+        "sellerId": "dd4e667c-7387-409c-9c93-93d53c0f8ade",
+        "createdAt": "2023-05-29T11:33:04.000Z"
+    },
+    {
+        "productId": "3ac62b55-36b1-4fbe-b725-d7cdf448b3ed",
+        "sellerId": "65ab7012-8039-44a5-af1f-b598a7384451",
+        "createdAt": "2023-05-05T10:04:51.000Z"
+    },
+    {
+        "productId": "4ab12234-f76b-43ed-bbfd-39bce1c05353",
+        "sellerId": "65ab7012-8039-44a5-af1f-b598a7384451",
+        "createdAt": "2023-05-05T10:16:26.000Z"
+    },
+    {
+        "productId": "b5c662db-c6ad-4749-bca4-ba5f90cca907",
+        "sellerId": "65ab7012-8039-44a5-af1f-b598a7384451",
+        "createdAt": "2023-05-05T10:14:42.000Z"
+    }
+]
+
+ Wed May 31 2023 19:00:00 GMT+0530 (India Standard Time) 
+ Total Products: 11
+
+ Wed May 31 2023 19:00:00 GMT+0530 (India Standard Time) 
+ Deleted products: 0
+
+ Wed May 31 2023 19:00:00 GMT+0530 (India Standard Time) 
+ users latest product of 7 days ago: [
+    {
+        "productId": "3098f6dd-ad9a-4bdd-b2d2-d3447de04831",
+        "sellerId": "dd4e667c-7387-409c-9c93-93d53c0f8ade",
+        "createdAt": "2023-05-29T12:14:36.000Z"
+    },
+    {
+        "productId": "38963bad-1d70-49a5-b2f4-e7da260c1364",
+        "sellerId": "dd4e667c-7387-409c-9c93-93d53c0f8ade",
+        "createdAt": "2023-05-29T11:33:04.000Z"
+    }
+]
+
+ Wed May 31 2023 19:00:00 GMT+0530 (India Standard Time) 
+ users latest product of 1 months ago: [
+    {
+        "productId": "3098f6dd-ad9a-4bdd-b2d2-d3447de04831",
+        "sellerId": "dd4e667c-7387-409c-9c93-93d53c0f8ade",
+        "createdAt": "2023-05-29T12:14:36.000Z"
+    },
+    {
+        "productId": "38963bad-1d70-49a5-b2f4-e7da260c1364",
+        "sellerId": "dd4e667c-7387-409c-9c93-93d53c0f8ade",
+        "createdAt": "2023-05-29T11:33:04.000Z"
+    },
+    {
+        "productId": "3ac62b55-36b1-4fbe-b725-d7cdf448b3ed",
+        "sellerId": "65ab7012-8039-44a5-af1f-b598a7384451",
+        "createdAt": "2023-05-05T10:04:51.000Z"
+    },
+    {
+        "productId": "4ab12234-f76b-43ed-bbfd-39bce1c05353",
+        "sellerId": "65ab7012-8039-44a5-af1f-b598a7384451",
+        "createdAt": "2023-05-05T10:16:26.000Z"
+    },
+    {
+        "productId": "b5c662db-c6ad-4749-bca4-ba5f90cca907",
+        "sellerId": "65ab7012-8039-44a5-af1f-b598a7384451",
+        "createdAt": "2023-05-05T10:14:42.000Z"
+    }
+]
+
+ Thu Jun 01 2023 15:00:00 GMT+0530 (India Standard Time) 
+ Deleted products: 0
+
+ Thu Jun 01 2023 15:00:00 GMT+0530 (India Standard Time) 
+ users latest product of 7 days ago: [
+    {
+        "productId": "3098f6dd-ad9a-4bdd-b2d2-d3447de04831",
+        "sellerId": "dd4e667c-7387-409c-9c93-93d53c0f8ade",
+        "createdAt": "2023-05-29T12:14:36.000Z"
+    },
+    {
+        "productId": "38963bad-1d70-49a5-b2f4-e7da260c1364",
+        "sellerId": "dd4e667c-7387-409c-9c93-93d53c0f8ade",
+        "createdAt": "2023-05-29T11:33:04.000Z"
+    }
+]
+
+ Thu Jun 01 2023 15:00:00 GMT+0530 (India Standard Time) 
+ users latest product of 1 months ago: [
+    {
+        "productId": "3098f6dd-ad9a-4bdd-b2d2-d3447de04831",
+        "sellerId": "dd4e667c-7387-409c-9c93-93d53c0f8ade",
+        "createdAt": "2023-05-29T12:14:36.000Z"
+    },
+    {
+        "productId": "38963bad-1d70-49a5-b2f4-e7da260c1364",
+        "sellerId": "dd4e667c-7387-409c-9c93-93d53c0f8ade",
+        "createdAt": "2023-05-29T11:33:04.000Z"
+    },
+    {
+        "productId": "3ac62b55-36b1-4fbe-b725-d7cdf448b3ed",
+        "sellerId": "65ab7012-8039-44a5-af1f-b598a7384451",
+        "createdAt": "2023-05-05T10:04:51.000Z"
+    },
+    {
+        "productId": "4ab12234-f76b-43ed-bbfd-39bce1c05353",
+        "sellerId": "65ab7012-8039-44a5-af1f-b598a7384451",
+        "createdAt": "2023-05-05T10:16:26.000Z"
+    },
+    {
+        "productId": "b5c662db-c6ad-4749-bca4-ba5f90cca907",
+        "sellerId": "65ab7012-8039-44a5-af1f-b598a7384451",
+        "createdAt": "2023-05-05T10:14:42.000Z"
+    }
+]
+
+ Thu Jun 01 2023 15:00:00 GMT+0530 (India Standard Time) 
+ Total Products: 11
