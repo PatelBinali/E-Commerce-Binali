@@ -68,4 +68,3 @@ exports.productCron = async () => {
 		console.log('Latest product of 7days ago');
 	});
 };
-// cron.start();

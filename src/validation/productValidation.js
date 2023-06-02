@@ -41,7 +41,6 @@ const productValidation = (req,res,next) => {
 			price: value.price,
 			stock:value.stock
 		};
-		// on success replace req.body with validated value and trigger next middleware function
 		next();
 	}
 };
