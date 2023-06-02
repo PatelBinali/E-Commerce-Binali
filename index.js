@@ -11,10 +11,7 @@ const { userCron } = require('./src/cronjob/userCron');
 const { productCron } = require('./src/cronjob/productCron');
 const passport = require('passport');
 const session = require('express-session');
-app.use(express.urlencoded({
-	extended: true 
-})
-);
+app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 
 app.use('/api', router);
@@ -72,4 +69,3 @@ app.use(session({
 }));
 app.use(passport.initialize()); 
 app.use(passport.session());   
-

@@ -7,7 +7,3 @@ const redisClient = redis.createClient({
 
 redisClient.connect();
 module.exports = redisClient;
-
-// Check if the Redis client is connected
-// Execute Redis commands
-// Handle the error appropriately

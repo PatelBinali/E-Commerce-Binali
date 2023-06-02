@@ -15,7 +15,7 @@ const DB_DATA = {
 };
 
 const LOGGER = {
-	USER_NOT_FOUND:'Invalid user',
+	USER_NOT_FOUND:'Invalid User',
 	PRODUCT_NOT_FOUND:'Product Not Found',
 	ORDER_NOT_PLACED:'Order Is Not Placed',
 	PRODUCT_CART_NOT_FOUND:'Product Is Not Found In Cart',

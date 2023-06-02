@@ -13,7 +13,6 @@ const validateJoi = (schema) => {
 			);
 		}
 		else {
-			// on success replace req.body with validated value and trigger next middleware function
 			next();
 		}
 	};

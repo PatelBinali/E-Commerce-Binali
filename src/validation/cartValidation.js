@@ -21,7 +21,6 @@ const cartValidation = (req,res,next) => {
 		res.json(`Validation error: ${error.details.map(x => x.message).join(', ')}`);
 	}
 	else {
-		// on success replace req.body with validated value and trigger next middleware function
 		req.body = value;
 		next();
 	}
