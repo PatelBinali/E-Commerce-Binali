@@ -29,7 +29,7 @@ describe('Test the connection path', () => {
 
 describe('USERCONTROLLER', () => {
 	test('should return 200 and a success message on successful login', async () => {
-		const response = await request(app).post('/api/user/loginUser').send({ where:{ email: 'admin@gmail.com', password: 'admin123' } });
+		const response = await request(app).post('/api/user/loginUser').send({ where:{ email: 'admin@gmail.com', password: '' } });
 		expect(response.status).toBe(200);
 		// expect(response.body).toHaveProperty('message', 'Login successful');
 	});
